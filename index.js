@@ -1,7 +1,7 @@
 import { Telegraf } from "telegraf";
 import fs from "fs";
 
-const BOT_TOKEN = process.env.BOT_TOKEN || "YOUR_BOT_TOKEN";
+const BOT_TOKEN = "8747004115:AAHKtDh77jyRzPiLEsisUd6iF2V8cDKjyMk";
 const OWNER_ID = 8136997138;
 const GROUP_ID = -1003881087774;
 
